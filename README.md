@@ -1,0 +1,2 @@
+# tensor-snake
+AI play 🐍
